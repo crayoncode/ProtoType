@@ -1,0 +1,6 @@
+F:\visualstudio2012\Projects\ProtoType\ProtoType\bin\Debug\ProtoType.exe.config
+F:\visualstudio2012\Projects\ProtoType\ProtoType\bin\Debug\ProtoType.exe
+F:\visualstudio2012\Projects\ProtoType\ProtoType\bin\Debug\ProtoType.pdb
+F:\visualstudio2012\Projects\ProtoType\ProtoType\obj\Debug\ProtoType.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\ProtoType\ProtoType\obj\Debug\ProtoType.exe
+F:\visualstudio2012\Projects\ProtoType\ProtoType\obj\Debug\ProtoType.pdb

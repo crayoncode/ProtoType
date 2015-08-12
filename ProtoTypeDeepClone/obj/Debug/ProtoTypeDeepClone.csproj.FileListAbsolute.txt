@@ -1,0 +1,6 @@
+F:\visualstudio2012\Projects\ProtoType\ProtoTypeDeepClone\bin\Debug\ProtoTypeDeepClone.exe.config
+F:\visualstudio2012\Projects\ProtoType\ProtoTypeDeepClone\bin\Debug\ProtoTypeDeepClone.exe
+F:\visualstudio2012\Projects\ProtoType\ProtoTypeDeepClone\bin\Debug\ProtoTypeDeepClone.pdb
+F:\visualstudio2012\Projects\ProtoType\ProtoTypeDeepClone\obj\Debug\ProtoTypeDeepClone.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\ProtoType\ProtoTypeDeepClone\obj\Debug\ProtoTypeDeepClone.exe
+F:\visualstudio2012\Projects\ProtoType\ProtoTypeDeepClone\obj\Debug\ProtoTypeDeepClone.pdb
